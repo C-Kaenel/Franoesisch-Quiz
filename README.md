@@ -1,4 +1,2 @@
-# Fran-sisch-Quiz
-Das Projekt 
-hallo leute ich bin auch hier
-# N wort
+# Franzoesisch-Quiz
+Das Projekt ist eine Konsolenanwendung zur Erstellung von Quizzes, bei der eine maximale Anzahl an Antwortmöglichkeiten festgelegt und die Punktevergabe automatisch berechnet wird.
